@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro56664-2&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro56664-2" /> </p>
 
-<p align="left"> <a href="https://twitter.com/alejandro56664" target="blank"><img src="https://img.shields.io/twitter/follow/alejandro56664?logo=twitter&style=for-the-badge" alt="alejandro56664" /></a> </p>
-
 - 🔭 I’m currently working on **Mercado Libre** as **Data Scientist Engineer**
 
 - 🌱 I’m currently learning **Scala**
@@ -17,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/alejandro56664" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alejandro56664" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jamoralesv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamoralesv" height="30" width="40" /></a>
 <a href="https://kaggle.com/jamoralesv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jamoralesv" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ja_moralesv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ja_moralesv" height="30" width="40" /></a>
