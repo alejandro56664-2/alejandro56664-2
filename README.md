@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jheison Alejandro Morales Vásquez</h1>
-<h3 align="center">A passionate Sofware Engineer from Colombia 🇨🇴</h3>
+<h3 align="center">A passionate Sofware Engineer/ Machine Learning Engineer from Colombia 🇨🇴</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro56664-2&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro56664-2" /> </p>
 
-- 🔭 I’m currently working on **Mercado Libre** as **Data Scientist Engineer**
+- 🔭 I’m currently working on **Mercado Libre** as **Machine Learning Engineer**
 
 - 🌱 I’m currently learning **Scala**
 
-- 📝 I regularly write articles on [alejandro56664-2.github.io](alejandro56664-2.github.io)
-
-- 📫 How to reach me **ja.moralesv@hotmail.com**
+- 📫 How to reach me **ja.moralesv@outlook.com**
 
 - ⚡ Fun fact **I like videogames design**
 
