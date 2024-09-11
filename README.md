@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mercado Libre** as **Machine Learning Engineer**
 
-- 🌱 I’m currently learning **Scala**
+- 🌱 I’m currently learning **Scala**, OCaml, Pharo (Smalltalk dialect)
 
 - 📫 How to reach me **ja.moralesv@outlook.com**
 
